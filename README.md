@@ -1,4 +1,4 @@
- there, I'm Gxotiwe Okuhle! 👋
+Hi there, I'm Okuhle Gxotiwe! 👋
 I'm a passionate web developer from Africa with a love for drawing, writing, and exploring new technologies. My journey in the world of web development is fueled by a deep appreciation for the intersection of art and technology, which I channel into crafting delightful UI/UX designs.
 
 🌱 Currently...
